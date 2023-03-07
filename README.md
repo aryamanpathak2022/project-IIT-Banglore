@@ -26,15 +26,24 @@ C Compiler (e.g., GCC)
 
 # Modules
 
-1.[book.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/book.c)
-2.[diff.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/diff.c)
-3.[dynamic_pricing.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/dynamic_pricing.c)
-4.[Passengerdetails.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/Passengerdetails.c)
-5.[payment_complete.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/payment_complete.c)
-6.[print_date1_time.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/print_date1_time.c)
-7.[web_check_in.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/web_check_in.c)
-8.[cancellation.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/cancellation.c)
-9.[mainfile.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/mainfile.c)
+1.[book.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/book.c)  
+
+2.[diff.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/diff.c) 
+
+3.[dynamic_pricing.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/dynamic_pricing.c)  
+
+4.[Passengerdetails.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/Passengerdetails.c)  
+
+5.[payment_complete.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/payment_complete.c)  
+
+6.[print_date1_time.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/print_date1_time.c) 
+
+7.[web_check_in.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/web_check_in.c) 
+
+8.[cancellation.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/cancellation.c) 
+
+9.[mainfile.c](https://github.com/aryamanpathak2022/project-IIT-Banglore/blob/main/mainfile.c)  
+
 
 # Header file
 
