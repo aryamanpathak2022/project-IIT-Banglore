@@ -1,1 +1,1 @@
-# project-IIT-Banglore
+# project-IIIT-Banglore
