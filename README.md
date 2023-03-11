@@ -91,9 +91,9 @@ After each module completion the user is asked to go back to the main menu(1) or
 
 1. Sanchit Dogra -- print_date1_time.c,mainfile.c Modules
 2. Rutul Patel-- Cancellation.c Module ,makemefile.mak
-3. Vasu Aggarwal -- seats.txt using [logic.c](),diff.c 
+3. Vasu Aggarwal -- seats.txt using [logic.c],diff.c 
 4. Aryaman Pathak-- book.c ,dynamic_pricing.c Modules 
-5. Rishi Patel-- Passengerdetail.c , payment_complete.c Modules database.txt using [logic.c]()
+5. Rishi Patel-- Passengerdetail.c , payment_complete.c Modules database.txt using [logic.c]
 6. Siddhesh Deshpande--combine.h,Modularity,Readme file,web_check_in.c Module
 
 # Constraints
@@ -102,4 +102,3 @@ After each module completion the user is asked to go back to the main menu(1) or
 
 These all constraints are because this is a sample project for airport management and not a real one .
 All these constraints can be changed according to the databse provided .The logic will be same.
-
